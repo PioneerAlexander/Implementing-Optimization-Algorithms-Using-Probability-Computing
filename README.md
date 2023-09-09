@@ -1,7 +1,8 @@
 # Implementing Optimization Algorithms Using Probability Computing
 #### Summer Practice at Constructor Group
-* **Integer Factorization**:
+
 [Current version of the publication](Publication.md)
+* **Integer Factorization**:
     - [Integer Factorization Code Source](integer_factorization.ipynb) 
     - [Presentation about Probability Computers basics and realization of the algorithm](summer_practice_constructor_uni.pdf)
     - Sources:
