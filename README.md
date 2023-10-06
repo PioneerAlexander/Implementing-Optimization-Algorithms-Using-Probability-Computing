@@ -54,7 +54,7 @@ The order in which p-bits change their states in a p-bit computer architecture d
 
     - Increase $\beta$ (cool the system) if the new state has a lower energy
             
-            At high temperatures updates that change the energy of the system are comparatively more probable. When the system is highly correlated, updates are rejected and the simulation is said to suffer from critical slowing down. Hence we are starting with low inverse temperature $\beta$ and then after every successful energy change we increase it's value to help the system to obtain the minimal energy value.
+      At high temperatures updates that change the energy of the system are comparatively more probable. When the system is highly correlated, updates are rejected and the simulation is said to suffer from critical slowing down. Hence we are starting with low inverse temperature $\beta$ and then after every successful energy change we increase it's value to help the system to obtain the minimal energy value.
 
 - **Return the state that corresponds to the minimum energy achieved.**
 
